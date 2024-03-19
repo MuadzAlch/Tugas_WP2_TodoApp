@@ -1,1 +1,3 @@
-# Tugas_WP2_TodoApp
+Tugas 1 (Latihan TODO App)
+Tugas: Latihan TODO App
+Nama : Muhammad Muadz Alchairi
